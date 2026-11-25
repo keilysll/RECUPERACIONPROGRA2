@@ -1,0 +1,17 @@
+{
+  "nombre": "LogiTrans",
+  "vehiculos": [
+    {
+      "placa": "ABC123",
+      "tipo": "camion",
+      "capacidadCarga": 5000,
+      "cargaActual": 0,
+      "numEjes": 3
+    },
+    {
+      "placa": "XYZ789",
+      "tipo": "moto",
+      "cilindrada": 150
+    }
+  ]
+}
