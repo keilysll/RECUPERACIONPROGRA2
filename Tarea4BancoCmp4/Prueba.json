@@ -1,0 +1,60 @@
+{
+  "nombre": "bisa",
+  "dirreccion": "calle x",
+  "clientes": [
+    {
+      "nombre": "juan",
+      "fono": 70700001,
+      "creditos": [
+        {
+          "tipo": "CreditoCuotaFija",
+          "deuda cuota fija": 980
+        },
+        {
+          "tipo": "CreditoCuotaVariable",
+          "deuda cuota variable": 1995
+        }
+      ],
+      "pagos": [
+        {
+          "id": 1,
+          "fecha": 20220101,
+          "monto": 5,
+          "tipo": "amortizacion"
+        },
+        {
+          "id": 3,
+          "fecha": 20220101,
+          "tipo": "cuota"
+        },
+        {
+          "id": 4,
+          "fecha": 20220101,
+          "tipo": "cuota"
+        }
+      ]
+    },
+    {
+      "nombre": "jose",
+      "fono": 70700002,
+      "creditos": [
+        {
+          "tipo": "CreditoCuotaFija",
+          "deuda cuota fija": 3000
+        },
+        {
+          "tipo": "CreditoCuotaVariable",
+          "deuda cuota variable": 3995
+        }
+      ],
+      "pagos": [
+        {
+          "id": 2,
+          "fecha": 20220101,
+          "monto": 5,
+          "tipo": "amortizacion"
+        }
+      ]
+    }
+  ]
+}
