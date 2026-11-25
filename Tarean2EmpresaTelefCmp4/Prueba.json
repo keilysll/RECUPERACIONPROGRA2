@@ -1,0 +1,28 @@
+{
+  "nombre": "juan",
+  "saldo": 5,
+  "paquetes": [
+    {
+      "tipo": "minutos",
+      "saldo minutos": 0
+    },
+    {
+      "tipo": "megas",
+      "saldo megas": 20
+    }
+  ],
+  "detalle": [
+    {
+      "id": 1,
+      "fecha": 20220101,
+      "minutos": 5,
+      "tipo": "llamada"
+    },
+    {
+      "id": 2,
+      "fecha": 20220101,
+      "minutos": 5,
+      "tipo": "llamada"
+    }
+  ]
+}
