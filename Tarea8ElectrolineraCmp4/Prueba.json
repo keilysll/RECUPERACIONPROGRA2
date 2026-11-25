@@ -1,0 +1,30 @@
+{
+  "nombre": "ana",
+  "saldo": 44,
+  "bonos": [
+    {
+      "tipo": "estandar",
+      "kwh": 0
+    },
+    {
+      "tipo": "universal",
+      "kwh": 0
+    }
+  ],
+  "cargas": [
+    {
+      "id": 1,
+      "fecha": 20261101,
+      "tipo": "estandar",
+      "kwh": 8,
+      "costo": 0
+    },
+    {
+      "id": 2,
+      "fecha": 20261102,
+      "tipo": "estandar",
+      "kwh": 10,
+      "costo": 6
+    }
+  ]
+}
